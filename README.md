@@ -1,2 +1,1 @@
-# Prep-Couse-Henry
-modulo 2 del curso henry volviendo arrancar después de medio año 
+Este proyecto es para probar como crear un repositorio y clonarlo desde github a mi computadora 
